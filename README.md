@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SimonJankowski
-- 👀 I’m interested in fitness
-- 🌱 I’m currently learning React and Postgress, also polishing my skills in Node.js, express, EJS, Mongo, CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi, I’m Simon,
+ I’m currently learning React and Postgress, also polishing my skills in Node.js, express, EJS, Mongo, CSS
+ I feel more confident on back-end, so if you are better on front-end, and cofident with UI design, hit me up! and let's create something cool together!
+
 
 <!---
 SimonJankowski/SimonJankowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
