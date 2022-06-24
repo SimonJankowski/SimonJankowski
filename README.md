@@ -3,7 +3,7 @@
 
 I am from Poland, and I currently live in Barcelona, Spain. I do web development in both, front and back-end. I love error-solving moments, and learning new frameworks and libraries.
 
-Skills: NODE JS / REACT / JS / HTML / CSS / MONGODB / POSTGRESQL
+Current stack: NODE JS / REACT / TS / MONGODB / POSTGRESQL
 
 
 
